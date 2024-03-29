@@ -60,6 +60,12 @@ To run the program, use the following command:
 ```
 python cli_script.py
 ```
+
+To run preliminary document processing, use the following command:
+```
+python document_processor.py --doc_dir ./sample --vector_store_path ./chroma_db --collection_name your_collection_name --n_batches 1 --llm_model mistral 
+```
+
 For samples and demonstrations, open the `AttentionX.ipynb` Jupyter notebook.
 
 ## Contributing
