@@ -1,0 +1,78 @@
+Physical Examination Report
+
+Patient Information:  
+- Name: Mr. Smith
+- Age: 56 years  
+- Occupation: Truck Driver  
+- Date of Examination: 09/17/2006  
+
+Chief Complaint:  
+- Shortness of breath  
+
+History of Present Illness:  
+Mr. Smith presents with a 4-day history of shortness of breath, hemoptysis, and right-sided chest pain. Initially diagnosed with pneumonia and treated with Levaquin and Benzonatate, he showed only slight improvement. His symptoms started while working as a truck driver. He has experienced significant dyspnea, blood-tinged sputum, and a sharp chest pain rating 7/10 in severity, which worsens with movement. The patient is a long-term smoker with no previous history of COPD. Recent transient left lower leg swelling and fever were noted.
+
+Past Medical History:  
+1. Hernia repair  
+2. Bilateral thumb surgeries due to work-related injuries  
+
+Medications:  
+- Levaquin 500 mg daily  
+- Benzonatate 200 mg TID for the past two days  
+
+Allergies:  
+- No known drug allergies  
+- Dislikes codeine  
+
+Review of Systems:  
+- Constitutional: Denies weight changes, fatigue, night sweats  
+- HEENT: No vision changes, nasal discharge, headaches  
+- Cardiovascular: No palpitations, edema  
+- Respiratory: Detailed in HPI  
+- GI: No nausea, vomiting, or abdominal pain  
+- GU: No urinary complaints  
+- Neurological: No weakness, numbness, or dizziness  
+- Musculoskeletal: No joint or muscle pain  
+- Hematologic: No easy bruising or bleeding  
+- Skin: No new lesions or rashes  
+- Endocrine: No symptoms of diabetes or thyroid disease  
+
+Social History:  
+Divorced, lives with brother and sister-in-law, has several children, smokes less than a pack a day for 35 years, no alcohol or drug use, enjoys line dancing.
+
+Family History:  
+No significant family history of lung disease or clotting disorders.
+
+Physical Examination Findings:  
+- Vitals: Temp 99.1°F, Pulse 88, Resp Rate 24, BP 114/78, O2 sats 90% on room air, 95% on 4L O2  
+- General: Alert, calm, well-developed male in no acute distress  
+- HEENT: Pupils equal and reactive, moist mucous membranes, small reddened area on left tonsillar pillar  
+- Neck: Supple, no lymphadenopathy or thyromegaly  
+- Cardiovascular: Regular rhythm, no murmurs  
+- Respiratory: Bilateral crackles, rhonchi from right lung base, no wheezes  
+- Abdomen: Soft, non-tender, normoactive bowel sounds  
+- Skin: Warm, dry, well-perfused, scattered freckles  
+- Extremities: No edema or pain, symmetrical appearance  
+- Neuro: Alert, oriented, cranial nerves 2-12 intact, normal strength and sensation, normal gait  
+- Psych: Appropriate affect  
+
+Admission Labs:  
+- WBC: 9.4, Hgb: 11.5, Hct: 34.0, Platelets: 223, MCV: 89.5  
+- Electrolytes: Sodium 134, Potassium 3.6, Chloride 101, Bicarb 25.1  
+- Renal: BUN 8, Creatinine 1.0, Glucose 106  
+
+Imaging & Other Studies:  
+- EKG: Normal sinus rhythm, no evidence of ischemia or right heart strain  
+- CT: Pulmonary emboli, right basilar atelectasis/infiltrate, small bilateral pleural effusions, large hiatal hernia, probable pericardial cyst, gallstones  
+
+Problem List:  
+1. Pulmonary embolus  
+2. Possible pneumonia  
+3. Anemia  
+4. Smoking cessation  
+
+Assessment & Plan:  
+- Pulmonary Embolus: Anticoagulate with low molecular weight heparin and Coumadin, monitor oxygen saturation, consider screening for hypercoagulability and malignancy given the history of smoking.  
+- Possible Pneumonia: Continue antibiotics, monitor vitals, consider sputum and blood cultures.  
+- Anemia: Normocytic, with no history of blood loss; investigate with reticulocyte count, blood smear, TSH level, and stool occult blood test. Recommend outpatient colonoscopy.  
+- Smoking Cessation: Offer counseling and pharmacotherapy.
