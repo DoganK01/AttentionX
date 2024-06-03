@@ -103,7 +103,7 @@ class AgentWorkflow(BaseModel):
         })
         return {"keys": {"question": state["keys"]["question"], "actual_prompt": state["keys"]["actual_prompt"], "response": improved_response}, "iteration": state["iteration"] + 1}
     
-    def should_fix_code(self, state):
+    def should_fix_response(self, state):
         if any([state["iteration"] >= 5, not state["keys"]["feedback"].has_suggestions]):
             return "end"
         return "improve"
