@@ -1,7 +1,7 @@
 # AttentionRX: A Medical Symptom Identification Program 💊🩺
 </p>
 <p align="center">
-  <img src="public/attentionrx.webp" width="50%" height="50%">
+  <img src="assets/attentionrx.webp" width="50%" height="50%">
 </p>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
