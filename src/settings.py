@@ -24,6 +24,8 @@ class EnvironmentSettings(BaseSettings):
     COHERE_API_KEY: str
     TAVILY_API_KEY: str
     LLAMA_PARSE_API_KEY: str
+    GOOGLE_API_KEY: str
+    ARXIV_API_KEY: str
 
     class Config:
         env_file = ".env"
