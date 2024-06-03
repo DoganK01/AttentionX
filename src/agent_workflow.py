@@ -40,7 +40,7 @@ class AgentWorkflow(BaseModel):
 
         workfloww.add_conditional_edges(
             "response_reviewer",
-            self.should_fix_code,
+            self.should_fix_response,
             {
                 "improve": "response_fixer",
                 "end": END
