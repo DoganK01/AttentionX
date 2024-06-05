@@ -4,10 +4,13 @@
   <img src="assets/attentionrx.webp" width="50%" height="50%">
 </p>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![LLamaindex](https://img.shields.io/badge/-LLamaindex-000?&logo=Data)
-![Nomic Embeddings](https://img.shields.io/badge/-Nomic%20Embeddings-000?&logo=ArtificialIntelligence)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-000?&logo=Database)
+![Langchain](https://img.shields.io/badge/-Langchain-000?&logo=Langchain)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=Data)
+![Qdrant](https://img.shields.io/badge/-Qdrant-000?&logo=ArtificialIntelligence)
+![DSPy](https://img.shields.io/badge/-DSPy-000?&logo=Database)
+![Langgraph](https://img.shields.io/badge/-Langgraph-000?&logo=Database)
+![RAFT](https://img.shields.io/badge/-RAFT-000?&logo=Database)
+![vLLM](https://img.shields.io/badge/-vLLM-000?&logo=Database)
 
 ## Description
 
