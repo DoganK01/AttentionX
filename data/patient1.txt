@@ -1,6 +1,6 @@
 Here is a simulated doctor's written summary of a patient exhibiting signs that may or may not indicate malaria:
 
-Patient Name: John Doe
+Patient Name: X
 Age: 35
 Date of Visit: April 15, 2023
 
