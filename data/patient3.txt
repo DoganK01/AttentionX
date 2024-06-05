@@ -1,7 +1,7 @@
 Physical Examination Report
 
 Patient Information:  
-- Name: Mr. Smith
+- Name: X
 - Age: 56 years  
 - Occupation: Truck Driver  
 - Date of Examination: 09/17/2006  
@@ -10,7 +10,7 @@ Chief Complaint:
 - Shortness of breath  
 
 History of Present Illness:  
-Mr. Smith presents with a 4-day history of shortness of breath, hemoptysis, and right-sided chest pain. Initially diagnosed with pneumonia and treated with Levaquin and Benzonatate, he showed only slight improvement. His symptoms started while working as a truck driver. He has experienced significant dyspnea, blood-tinged sputum, and a sharp chest pain rating 7/10 in severity, which worsens with movement. The patient is a long-term smoker with no previous history of COPD. Recent transient left lower leg swelling and fever were noted.
+X presents with a 4-day history of shortness of breath, hemoptysis, and right-sided chest pain. Initially diagnosed with pneumonia and treated with Levaquin and Benzonatate, he showed only slight improvement. His symptoms started while working as a truck driver. He has experienced significant dyspnea, blood-tinged sputum, and a sharp chest pain rating 7/10 in severity, which worsens with movement. The patient is a long-term smoker with no previous history of COPD. Recent transient left lower leg swelling and fever were noted.
 
 Past Medical History:  
 1. Hernia repair  
