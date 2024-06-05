@@ -1,4 +1,4 @@
-Patient Name: John Doe
+Patient Name: X
 Date of Visit: April 15, 2023
 
 Chief Complaint:
