@@ -13,9 +13,9 @@ class Feedback(BaseModel):
     @validator("suggestions", "has_suggestions", pre=True, always=True)
     def question_ends_with_question_mark(cls, value, field):
       if field.name == "suggestions":
-        if not isinstance(value, bool):
-            raise ValueError(f"{field.name} must be a boolean!")
-      if field.name == "has_suggestions":
         if not isinstance(value, str):
-          raise ValueError(f"{field.name} must be a string!")
+            raise ValueError(f"{field.name} must be a string!")
+      if field.name == "has_suggestions":
+        if not isinstance(value, bool):
+          raise ValueError(f"{field.name} must be a boolean!")
       return value
