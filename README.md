@@ -66,6 +66,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
+## References
+
+https://github.com/jjovalle99
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Reference
