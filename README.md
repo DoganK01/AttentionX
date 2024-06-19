@@ -1,7 +1,7 @@
 # AttentionRX: Reflection Type Agent for Medical Symptom Identification Program 💊🩺(UNDER DEVELOPEMENT)
 </p>
 <p align="center">
-  <img src="assets/attentionrx.webp" width="50%" height="50%">
+  <img src="assets/attentionrx.webp" width="100%" height="100%">
 </p>
 
 ![Langchain](https://img.shields.io/badge/-Langchain-000?&logo=Langchain)
