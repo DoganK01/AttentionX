@@ -12,6 +12,11 @@
 ![RAFT](https://img.shields.io/badge/-RAFT-000?&logo=Database)
 ![vLLM](https://img.shields.io/badge/-vLLM-000?&logo=Database)
 
+## Diagram
+
+![Unbenanntes Diagramm drawio (3)](https://github.com/DoganK01/AttentionX/assets/98788987/06066a2b-7869-43fa-80e0-d190ea7f104b)
+
+
 ## Description
 
 AttentionRX is an innovative software solution designed to enhance the analysis and interpretation of medical patient records by cross-referencing them with scholarly journal articles. By leveraging the latest advancements in artificial intelligence, AttentionX identifies symptoms from patient records and provides evidence-based prescription suggestions. The core technology stack includes Retrieval Augmented Generation (RAG), and Reflection type agents powered by Langchain, 
@@ -65,10 +70,6 @@ For samples and demonstrations, open the `notebooks` folder.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-
-## References
-
-https://github.com/jjovalle99
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
