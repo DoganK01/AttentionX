@@ -42,6 +42,11 @@ Llama3-OpenBioLLM-70B, Qdrant, DSPy and Langsmith, facilitating a robust and ins
 | Serving  | Langserve  |
 | Deployement  | Modal, vLLM  |
 
+## Wandb Tracing
+![image](https://github.com/user-attachments/assets/55cbe8b1-f671-45ab-8d7c-d9d81a800c19)
+![image](https://github.com/user-attachments/assets/245aedef-ddcc-40f1-a5de-84c469821bc9)
+
+
 ## Folder Structure
 
 - `data/`: Contains the dataset of medical patient records and scholarly journal articles
