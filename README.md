@@ -38,9 +38,8 @@ Llama3-OpenBioLLM-70B, Qdrant, DSPy and Langsmith, facilitating a robust and ins
 | System Building  | Langchain, Langgraph  |
 | Fine-tuning  | RAFT + QLoRa  |
 | Optimization  | DSPy  |
-| Evaluation  | Langsmith  |
-| Serving  | Langserve  |
-| Deployement  | Modal, vLLM  |
+| Evaluation  | Langsmith, DSPy  |
+| Deployement  | Azure, Chainlit |
 
 ## Wandb Tracing
 ![image](https://github.com/user-attachments/assets/55cbe8b1-f671-45ab-8d7c-d9d81a800c19)
