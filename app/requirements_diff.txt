@@ -1,0 +1,2 @@
+chainlit
+pydantic==2.10.1

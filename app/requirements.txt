@@ -1,0 +1,5 @@
+chainlit
+transformers
+torch
+pydantic==2.10.1
+accelerate>=0.26.0
