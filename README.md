@@ -1,4 +1,4 @@
-# AttentionRX: Reflection Type Agent for Medical Symptom Identification Program 💊🩺(UNDER DEVELOPEMENT)
+# AttentionX: Reflection Type Agent for Medical Symptom Identification Program 💊🩺(UNDER DEVELOPEMENT)
 </p>
 <p align="center">
   <img src="assets/attentionrx.webp" width="100%" height="100%">
@@ -19,8 +19,11 @@
 
 ## Description
 
-AttentionRX is an innovative software solution designed to enhance the analysis and interpretation of medical patient records by cross-referencing them with scholarly journal articles. By leveraging the latest advancements in artificial intelligence, AttentionX identifies symptoms from patient records and provides evidence-based prescription suggestions. The core technology stack includes Retrieval Augmented Generation (RAG), and Reflection type agents powered by Langchain, 
+AttentionX is an innovative software solution designed to enhance the analysis and interpretation of medical patient records by cross-referencing them with scholarly journal articles. By leveraging the latest advancements in artificial intelligence, AttentionX identifies symptoms from patient records and provides evidence-based prescription suggestions. The core technology stack includes Retrieval Augmented Generation (RAG), and Reflection type agents powered by Langchain, 
 Llama3-OpenBioLLM-70B, Qdrant, DSPy and Langsmith, facilitating a robust and insightful analysis.
+
+A dataset is created using GPT4o compatbile with RAFT resarch paper. Using this dataset, Qwen3-14B is trained. After the training, evaluation done on test dataset which has the same format with train dataset. %88 accuracy was achieved. After the documents related to the vector database are loaded and stored, the system itself is set up. The patient record and a query must be entered as input. Depending on these two inputs, relevant articles and texts are collected from the Qdrant vector database, Arxiv, Scholar and Tavily search tool in parallel and prompt editing is done. Then, the LLM-based agent of the Reflection Agent type produces the necessary response and presents it to the user in a structured way.
+
 
 ## Key Features
 
@@ -28,6 +31,11 @@ Llama3-OpenBioLLM-70B, Qdrant, DSPy and Langsmith, facilitating a robust and ins
 - **Scholarly Journal Integration:** Cross-referencing symptoms with the latest scholarly articles and research for evidence-based diagnosis and prescription.
 - **Evidence-Based Prescriptions:** Utilizes cutting-edge AI to suggest prescriptions based on the most current research and data.
 - **Advanced Tech Stack:** Incorporates Retrieval Augmented Generation (RAG), Langchain, Llama3-OpenBioLLM-70B, Qdrant, DSPy and Langsmith for comprehensive data analysis and retrieval as well as for optimization and evaluation.
+- **RAFT:** Qwen3-14B Model was trained using RAFT training technique to enhance the RAG compatibility (to reduce the hallucination and get more accurate answers) of the model itself.
+- **Reflection:** This simple example composes two LLM calls: a generator and a reflector. The generator tries to respond directly to the user's requests. The reflector is prompted to role play as a teacher and offer constructive criticism for the initial response.
+The loop proceeds a fixed number of times, and the final generated output is returned. Generator LLM is trained Qwen3-14B itself and reflector is "Llama3-OpenBioLLM-70B" model which is an advanced open source language model designed specifically for the biomedical domain. Developed by Saama AI Labs, this model leverages cutting-edge techniques to achieve state-of-the-art performance on a wide range of biomedical tasks.
+
+
 
 ## Tech Stack
 
@@ -36,9 +44,9 @@ Llama3-OpenBioLLM-70B, Qdrant, DSPy and Langsmith, facilitating a robust and ins
 | Data Collection Tools          | Arxiv, Scholar, Tavily         |
 | VectorDB, RAG  | Qdrant, Cohore Reranker  |
 | System Building  | Langchain, Langgraph  |
-| Fine-tuning  | RAFT + QLoRa  |
+| Fine-tuning  | RAFT + LoRa  |
 | Optimization  | DSPy  |
-| Evaluation  | Langsmith, DSPy  |
+| Evaluation  | Langsmith |
 | Deployement  | Azure, Chainlit |
 
 ## Wandb Tracing
