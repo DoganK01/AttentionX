@@ -1,4 +1,4 @@
-# AttentionX: Reflection Type Agent for Medical Symptom Identification Program 💊🩺(UI and DSPy implementation on the way)
+# AttentionX: Reflection Type Agent for Medical Symptom Identification Program 💊🩺
 </p>
 <p align="center">
   <img src="assets/attentionrx.webp" width="100%" height="100%">
